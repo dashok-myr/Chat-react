@@ -2,7 +2,7 @@ import firebase from "firebase/app";
 import "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_API_KEY,
+  apiKey: process.env.FIREBASE_API_KEY,
   authDomain: "chat-react-7a8f5.firebaseapp.com",
   databaseURL: "https://chat-react-7a8f5.firebaseio.com",
   projectId: "chat-react-7a8f5",

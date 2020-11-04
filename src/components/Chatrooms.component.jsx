@@ -1,7 +1,6 @@
 import React from "react";
 import Grid from "@material-ui/core/Grid";
 import MyButton from "./MyButton.component";
-import { Box } from "@material-ui/core";
 
 const chatroomNames = ["General", "Gaming", "Music", "DevNerds"];
 
